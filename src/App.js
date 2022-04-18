@@ -4,7 +4,7 @@ import { Dinosaur } from './Dinosaur'
 function App() {
     return (
       <div className='app'>
-        wow crazy
+        Sarah art
         <Dinosaur />
       </div>
     );
