@@ -8,7 +8,7 @@ export class Dinosaur extends React.Component{
 
         this.state = {
             x: 0,
-            y: 0,
+            y: 30,
             offsetx: 0,
             offsety: 0
         }
